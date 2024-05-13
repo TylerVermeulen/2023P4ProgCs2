@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MA\\Bewijzenmap periode1.3\\Prog\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
+      "projectUniqueName": "C:\\MA\\Bewijzenmap periode1.4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
       "projectName": "ConsoleMonGame",
-      "projectPath": "C:\\MA\\Bewijzenmap periode1.3\\Prog\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
+      "projectPath": "C:\\MA\\Bewijzenmap periode1.4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
       "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\MA\\Bewijzenmap periode1.3\\Prog\\ConsoleMonGame\\ConsoleMonGame\\obj\\",
+      "outputPath": "C:\\MA\\Bewijzenmap periode1.4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

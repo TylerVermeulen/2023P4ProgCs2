@@ -1,0 +1,15 @@
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfoInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfo.cs
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.csproj.CoreCompileInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.sourcelink.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.exe
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.deps.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.runtimeconfig.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\ConsoleMonGame.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\refint\ConsoleMonGame.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.genruntimeconfig.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ref\ConsoleMonGame.dll
