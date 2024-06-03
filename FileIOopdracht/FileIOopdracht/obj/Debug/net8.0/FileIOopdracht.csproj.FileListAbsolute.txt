@@ -1,0 +1,16 @@
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\leesdezefile.txt
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\FileIOopdracht.exe
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\FileIOopdracht.deps.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\FileIOopdracht.runtimeconfig.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\FileIOopdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\bin\Debug\net8.0\FileIOopdracht.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.AssemblyInfoInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.AssemblyInfo.cs
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.csproj.CoreCompileInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.sourcelink.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\refint\FileIOopdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\FileIOopdracht.genruntimeconfig.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\FileIOopdracht\FileIOopdracht\obj\Debug\net8.0\ref\FileIOopdracht.dll

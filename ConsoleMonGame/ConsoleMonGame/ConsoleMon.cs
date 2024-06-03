@@ -5,6 +5,7 @@
         internal string name;
         internal int energy;
         internal int health;
+        internal Element weakness;
 
         private List<Skill> skills = new List<Skill>();
 
