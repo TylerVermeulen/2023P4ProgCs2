@@ -2,12 +2,12 @@
 {
     internal class ConsoleMon
     {
-        internal string name;
-        internal int energy;
-        internal int health;
-        internal Element weakness;
+        public string name;
+        public int energy;
+        public int health;
+        public Element weakness;
 
-        private List<Skill> skills = new List<Skill>();
+        internal List<Skill> skills = new List<Skill>();
 
         internal void TakeDamage(int damage)
         {
@@ -16,6 +16,20 @@
         internal void DepleteEnergy(int energy)
         {
             this.energy = this.energy - energy;
+        }
+        public ConsoleMon()
+        {
+
+        }
+        internal ConsoleMon(int health, 
+            int energy, 
+            string name, 
+            Element weakness) 
+        { 
+            this.health = health;
+            this.energy = energy;
+            this.weakness = weakness;
+            this.name = name;
         }
     }
 }

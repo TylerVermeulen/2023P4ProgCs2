@@ -1,0 +1,16 @@
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\stringsplit.txt
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\SplitOpdracht.exe
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\SplitOpdracht.deps.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\SplitOpdracht.runtimeconfig.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\SplitOpdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net8.0\SplitOpdracht.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.AssemblyInfo.cs
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.sourcelink.json
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\refint\SplitOpdracht.dll
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.pdb
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\SplitOpdracht.genruntimeconfig.cache
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net8.0\ref\SplitOpdracht.dll

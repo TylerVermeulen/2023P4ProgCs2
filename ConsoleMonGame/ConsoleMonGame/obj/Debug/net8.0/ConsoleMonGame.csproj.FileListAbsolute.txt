@@ -14,3 +14,4 @@ C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\ob
 C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.genruntimeconfig.cache
 C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ref\ConsoleMonGame.dll
 C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\monsterdata.txt
+C:\MA\Bewijzenmap periode1.4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMonGame\bin\Debug\net8.0\monsterdata.json
